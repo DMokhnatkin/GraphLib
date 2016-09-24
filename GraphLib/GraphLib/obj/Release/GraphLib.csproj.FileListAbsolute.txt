@@ -1,0 +1,5 @@
+D:\projects\c#\GraphLib\GraphLib\bin\Release\GraphLib.dll
+D:\projects\c#\GraphLib\GraphLib\bin\Release\GraphLib.pdb
+D:\projects\c#\GraphLib\GraphLib\obj\Release\GraphLib.csprojResolveAssemblyReference.cache
+D:\projects\c#\GraphLib\GraphLib\obj\Release\GraphLib.dll
+D:\projects\c#\GraphLib\GraphLib\obj\Release\GraphLib.pdb
